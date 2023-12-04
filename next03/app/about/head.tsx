@@ -3,7 +3,7 @@ export default function Head() {
         <>
             <title>About Page</title>
             <meta content="width=device-width, initial-scale=1" name="viewport" />
-            <meta name="description" content="Created by me" />
+            <meta name="description" content="Created by Dave" />
             <link rel="icon" href="/favicon.ico" />
         </>
     )
